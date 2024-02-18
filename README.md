@@ -1,3 +1,4 @@
+![logo](https://github.com/branesh2k/branesh2k/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Branesh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
