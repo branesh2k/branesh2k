@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Social Media API](https://github.com/branesh2k/Social_Media_API)
 
-- 🌱 I’m currently learning **Amazon Web Service**
-
 - 📫 How to reach me **braneshp24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
