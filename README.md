@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=branesh2k&label=Profile%20views&color=0e75b6&style=flat" alt="branesh2k" /> </p>
 
-- 🔭 I’m currently working on [Social Media API](https://github.com/branesh2k/Social_Media_API)
+- 🔭 I’m currently working on [Project: Social Media API](https://github.com/branesh2k/Social_Media_API)
 
 - 📫 How to reach me **braneshp24@gmail.com**
 
