@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://github.com/branesh2k/branesh2k/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png" width="100%" />
 </p>
@@ -15,7 +17,7 @@
 
 ---
 
-## About Me
+##  About Me
 
 🔭 Currently learning and building cool things in Data Engineering.<br>
 🌱 Always curious about new tech and data trends.<br>
@@ -40,15 +42,15 @@
 
 ---
 
-## � Featured Projects & Links
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://braneshp24.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/braneshp24/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=branesh2k&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=branesh2k&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=branesh2k&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -62,11 +64,11 @@
   <a href="https://linkedin.com/in/braneshp24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:braneshp24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://instagram.com/ig_blacksoul" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:braneshp24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
