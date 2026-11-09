@@ -14,35 +14,42 @@
 
 ## A little about me
 
-Hey, I'm Branesh, based in India. I like exploring how data moves through systems—from processing and distributed computing to cloud platforms. I'm curious about what happens under the hood, and I learn best by building things and experimenting.
+Hey, I'm Branesh, a Data Engineer based in India. I enjoy working with data, exploring how systems work behind the scenes, and learning by building things with Python, SQL, Spark, and cloud technologies.
 
 ## Things I work with
 
-**Programming · SQL**
+**Programming**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="48" alt="Python and PostgreSQL">
 </p>
 
-**Data engineering · Spark · PySpark · Airflow · Pandas · Delta Lake**
+**Data Processing**
 
 <p>
   <img src="https://cdn.simpleicons.org/ApacheSpark/E25A1C" height="36" alt="Apache Spark and PySpark">
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ApacheAirflow/017CEE" height="36" alt="Apache Airflow">
-  &nbsp;&nbsp;
   <img src="./assets/pandas-icon.svg" height="36" alt="Pandas">
   &nbsp;&nbsp;
-  <span title="Delta Lake">Delta Lake</span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/delta-lake-logo-dark.svg">
+    <img src="./assets/delta-lake-logo-light.svg" height="36" alt="Delta Lake">
+  </picture>
 </p>
 
-**Cloud · AWS**
+**Orchestration**
+
+<p>
+  <img src="https://cdn.simpleicons.org/ApacheAirflow/017CEE" height="36" alt="Apache Airflow">
+</p>
+
+**Cloud & Data Platforms**
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" alt="AWS">
 </p>
 
-**Tools · Docker · Git · GitHub Actions · Terraform**
+**Developer Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,terraform&theme=dark" height="48" alt="Docker, Git, GitHub Actions and Terraform">
@@ -51,8 +58,6 @@ Hey, I'm Branesh, based in India. I like exploring how data moves through system
 ---
 
 ## Around the contribution graph
-
-The GitHub contribution graph lives just below this README. Here's its little snake counterpart:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/branesh2k/branesh2k/output/github-snake-dark.svg">
@@ -66,7 +71,7 @@ The GitHub contribution graph lives just below this README. Here's its little sn
 <p>
   <a href="https://braneshp24.netlify.app/"><img src="https://cdn.simpleicons.org/Netlify/00C7B7" height="20" alt="Website"></a>
   &nbsp;
-  <a href="https://linkedin.com/in/braneshp24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/linkedin.svg" height="20" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/braneshp24"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:braneshp24@gmail.com"><img src="https://cdn.simpleicons.org/Gmail/EA4335" height="20" alt="Email"></a>
 </p>
