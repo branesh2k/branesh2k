@@ -1,79 +1,72 @@
-
-
 <p align="center">
-  <img src="https://github.com/branesh2k/branesh2k/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png" width="100%" />
-</p>
-
-<h1 align="center">Hi there, I'm <span style="color:#0078D4">Branesh</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">🚀 Data Engineer | 💡 Tech Enthusiast | 🌏 India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=branesh2k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="./assets/data-engineer-hero.svg" alt="Branesh P — Data Engineer" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=67E8F9&center=true&vCenter=true&width=600&height=45&lines=Data+Engineer;Python+%26+SQL;Apache+Spark+%26+PySpark;AWS+%26+Data+Platforms;Building+reliable+data+workflows" alt="Data Engineer, Python and SQL, Apache Spark and PySpark, AWS and data platforms, building reliable data workflows">
+</p>
+
+<p align="center">
+  <samp>data flows in &nbsp;→&nbsp; understanding flows out</samp>
 </p>
 
 ---
 
-##  About Me
+## A little about me
 
-🔭 Currently learning and building cool things in Data Engineering.<br>
-🌱 Always curious about new tech and data trends.<br>
-🖥️ Ask me about Python, SQL, AWS, or anything data!
+Hey, I'm Branesh, based in India. I like exploring how data moves through systems—from processing and distributed computing to cloud platforms. I'm curious about what happens under the hood, and I learn best by building things and experimenting.
 
----
+## Things I work with
 
-## 🛠️ Skills & Tools
+**Programming · SQL**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="48" alt="Python and PostgreSQL">
+</p>
+
+**Data engineering · Spark · PySpark · Airflow · Pandas · Delta Lake**
+
+<p>
+  <img src="https://cdn.simpleicons.org/ApacheSpark/E25A1C" height="36" alt="Apache Spark and PySpark">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ApacheAirflow/017CEE" height="36" alt="Apache Airflow">
+  &nbsp;&nbsp;
+  <img src="./assets/pandas-icon.svg" height="36" alt="Pandas">
+  &nbsp;&nbsp;
+  <span title="Delta Lake">Delta Lake</span>
+</p>
+
+**Cloud · AWS**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" alt="AWS">
+</p>
+
+**Tools · Docker · Git · GitHub Actions · Terraform**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,terraform&theme=dark" height="48" alt="Docker, Git, GitHub Actions and Terraform">
 </p>
 
 ---
 
+## Around the contribution graph
 
-## 📊 GitHub Stats
+The GitHub contribution graph lives just below this README. Here's its little snake counterpart:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=branesh2k&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=branesh2k&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=branesh2k&theme=radical" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/branesh2k/branesh2k/output/github-snake-dark.svg">
+  <img alt="Animated snake traversing my GitHub contribution graph" src="https://raw.githubusercontent.com/branesh2k/branesh2k/output/github-snake.svg" width="100%">
+</picture>
 
 ---
 
-## 🌐 Connect with Me
+## Say hello
 
-<p align="center">
-  <a href="https://braneshp24.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/braneshp24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ig_blacksoul" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:braneshp24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Data is the new oil, but it’s only valuable if you know how to refine it."</em>
+<p>
+  <a href="https://braneshp24.netlify.app/"><img src="https://cdn.simpleicons.org/Netlify/00C7B7" height="20" alt="Website"></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/braneshp24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/linkedin.svg" height="20" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:braneshp24@gmail.com"><img src="https://cdn.simpleicons.org/Gmail/EA4335" height="20" alt="Email"></a>
 </p>

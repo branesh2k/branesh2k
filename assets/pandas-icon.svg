@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="title">
+  <title id="title">Pandas</title>
+  <rect width="32" height="32" rx="6" fill="#f0edff"/>
+  <path fill="#130754" d="M20.922 4h2.623v18.104h-2.623zm-4.126 12.94h2.623v2.57h-2.623zm0-7.037h2.623v5.446h-2.623zm0 11.197h2.623v5.446h-2.623zM8.456 9.896h2.622V28H8.455zm4.213 2.559h2.623v2.57H12.67zm0 4.151h2.623v5.447H12.67zm0-11.187h2.623v5.446H12.67Z"/>
+</svg>
